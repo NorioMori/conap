@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="conap/conap.vcxproj" Id="d2be4e1f-1347-457a-8e28-1d9504790db8" />
+</Solution>
